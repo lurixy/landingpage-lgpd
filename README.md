@@ -1,4 +1,4 @@
-# landingpage-lgpd
+# Landing Page - LGPD
 
 📄 Landing Page - LGPD | Projeto de Empreendedorismo
 Este repositório contém uma landing page desenvolvida como parte da disciplina de Empreendedorismo, com foco na divulgação e conscientização sobre a Lei Geral de Proteção de Dados (LGPD). O objetivo é simular a apresentação de um produto ou serviço voltado à proteção de dados, acessível e atrativo para instituições e usuários interessados no tema.
